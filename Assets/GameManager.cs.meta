@@ -3,7 +3,34 @@ guid: c962c8c77ed381b4faf6c2e444fb6706
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - wheel: {instanceID: 0}
+  - spinButton: {instanceID: 0}
+  - wheel2: {instanceID: 0}
+  - spinButton2: {instanceID: 0}
+  - percentagePanel: {instanceID: 0}
+  - percentagePanel2: {instanceID: 0}
+  - circle1: {instanceID: 0}
+  - circle2: {instanceID: 0}
+  - circle3: {instanceID: 0}
+  - circle4: {instanceID: 0}
+  - panel1slider1Text: {instanceID: 0}
+  - panel1slider2Text: {instanceID: 0}
+  - panel1slider3Text: {instanceID: 0}
+  - panel1slider4Text: {instanceID: 0}
+  - panel1slider5Text: {instanceID: 0}
+  - panel1slider6Text: {instanceID: 0}
+  - panel2slider1Text: {instanceID: 0}
+  - panel2slider2Text: {instanceID: 0}
+  - panel2slider3Text: {instanceID: 0}
+  - panel2slider4Text: {instanceID: 0}
+  - panel2slider5Text: {instanceID: 0}
+  - panel2slider6Text: {instanceID: 0}
+  - panel2slider7Text: {instanceID: 0}
+  - panel2slider8Text: {instanceID: 0}
+  - confetti: {instanceID: 0}
+  - confetti2: {instanceID: 0}
+  - confetti3: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
